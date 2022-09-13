@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Pet a Vista</title>
+    <link href="../style/style.css" rel="stylesheet" />
+    <script src="../logic/script.js"></script>
+  </head>
+
+  <body>
+    <header>
+      <p>Pet a vista</p>
+      <button onclick="sair()">Sair</button>
+    </header>
+
+    <main>
+      <h2>
+        Encontrou um pet na rua e acha que alguém pode querer ajudar ou adotar?
+        Publique a foto dela ou dele aqui!
+      </h2>
+      <div class="cards-container">
+        <div class="card">
+          <img
+            src="../images/pets/gray-cat.png"
+            class="animal-picture"
+            alt="imagem de um gato abandonado"
+          />
+          <div class="social-column">
+            <img
+              src="../images/icons/balloons.png"
+              alt="ícone de balão de conversa"
+            />
+            <img
+              src="../images/icons/red-heart.png"
+              alt="imagem de coração vermelho"
+            />
+          </div>
+          <div class="location-row">
+            <img
+              src="../images/icons/location.png"
+              alt="ícone de localizaçao"
+            />
+            <p>Rua Antunes, 123-150 <br />Meireles, Fortaleza, CE</p>
+          </div>
+          <div class="expiration-date">
+            <p>Expira <br />25/09/22</p>
+          </div>
+        </div>
+
+        <div class="card">
+          <div>
+            <img
+              src="../images/pets/cat-in-a-bench.png"
+              class="animal-picture rescued"
+              alt="imagem de um cao resgatado"
+            />
+            <p class="label-rescued">RESGATADO</p>
+          </div>
+          <div class="social-column">
+            <img
+              src="../images/icons/balloons.png"
+              alt="ícone de balão de conversa"
+            />
+            <img src="../images/icons/heart.png" alt="imagem de coraçao" />
+          </div>
+          <div class="location-row">
+            <img
+              src="../images/icons/location.png"
+              alt="ícone de localizaçao"
+            />
+            <p>
+              Avenida Afonso Pena, 2022-2100 <br />Savassi, Belo Horizonte, MG
+            </p>
+          </div>
+          <div class="expiration-date">
+            <p>Expira <br />15/09/22</p>
+          </div>
+        </div>
+
+        <div class="card">
+          <img
+            src="../images/pets/stray-dog.jpeg"
+            class="animal-picture"
+            alt="imagem de um cachorro abandonado"
+          />
+          <div class="social-column">
+            <img
+              src="../images/icons/balloons.png"
+              alt="ícone de balão de conversa"
+            />
+            <img
+              src="../images/icons/red-heart.png"
+              alt="imagem de coração vermelho"
+            />
+          </div>
+          <div class="location-row">
+            <img
+              src="../images/icons/location.png"
+              alt="ícone de localizaçao"
+            />
+            <p>Avenida Angélica, 1711-1800 <br />Consolação, São Paulo, SP</p>
+          </div>
+          <div class="expiration-date">
+            <p>Expira <br />12/10/22</p>
+          </div>
+        </div>
+
+        <div class="card">
+          <img
+            src="../images/pets/two-dogs.png"
+            class="animal-picture"
+            alt="imagem de dois cachorros abandonados"
+          />
+          <div class="social-column">
+            <img
+              src="../images/icons/balloons.png"
+              alt="ícone de balão de conversa"
+            />
+            <img
+              src="../images/icons/red-heart.png"
+              alt="imagem de coração vermelho"
+            />
+          </div>
+          <div class="location-row">
+            <img
+              src="../images/icons/location.png"
+              alt="ícone de localizaçao"
+            />
+            <p>Rua Lagunar, 1300-1400 <br />Santos Dummont, Maceió, AL</p>
+          </div>
+          <div class="expiration-date">
+            <p>Expira <br />05/12/23</p>
+          </div>
+        </div>
+
+        <div class="card">
+          <img
+            src="../images/pets/white-puppy.png"
+            class="animal-picture"
+            alt="imagem de um cachorro branco na rua"
+          />
+          <div class="social-column">
+            <img
+              src="../images/icons/balloons.png"
+              alt="ícone de balão de conversa"
+            />
+            <img src="../images/icons/heart.png" alt="imagem de coraçao" />
+          </div>
+          <div class="location-row">
+            <img
+              src="../images/icons/location.png"
+              alt="ícone de localizaçao"
+            />
+            <p>Rua 19 de Março, 589-650 <br />Planalto, Natal, RN</p>
+          </div>
+          <div class="expiration-date">
+            <p>Expira <br />09/11/22</p>
+          </div>
+        </div>
+
+        <div class="card">
+          <img
+            src="../images/pets/stray-cat.jpeg"
+            class="animal-picture"
+            alt="imagem de um gato abandonado"
+          />
+          <div class="social-column">
+            <img
+              src="../images/icons/balloons.png"
+              alt="ícone de balão de conversa"
+            />
+            <img src="../images/icons/heart.png" alt="imagem de coraçao" />
+          </div>
+          <div class="location-row">
+            <img
+              src="../images/icons/location.png"
+              alt="ícone de localizaçao"
+            />
+            <p>Rua Sapoti, 769-850 <br />Uberaba, Curitiba, PR</p>
+          </div>
+          <div class="expiration-date">
+            <p>Expira <br />05/12/22</p>
+          </div>
+        </div>
+      </div>
+    </main>
+    <footer>
+      <p>Made with ♥ by &nbsp &nbsp &nbsp</p>
+      <div>
+        <a href="https://github.com/alexa2me" target="_blank">
+          <img src="/images/developers/alexandra.png" alt="Alexandra" />
+        </a>
+        <a href="https://github.com/fernandagiacomel" target="_blank">
+          <img src="/images/developers/fernanda.png" alt="Fernanda" />
+        </a>
+        <a href="https://github.com/enricoasc" target="_blank">
+          <img src="/images/developers/enrico.png" alt="Enrico" />
+        </a>
+        <a href="https://github.com/marleicampos" target="_blank">
+          <img src="/images/developers/marlei.png" alt="Marlei" />
+        </a>
+        <a href="https://github.com/harleiaki" target="_blank">
+          <img src="/images/developers/harley.png" alt="Harley" />
+        </a>
+        <a href="https://github.com/gabolex" target="_blank">
+          <img src="/images/developers/gabriel.png" alt="Gabriel" />
+        </a>
+        <a href="https://github.com/mourajorge" target="_blank">
+          <img src="/images/developers/joao.png" alt="Joao" />
+        </a>
+        <a href="https://github.com/arnoldcainan" target="_blank">
+          <img src="/images/developers/arnold.png" alt="Arnold" />
+        </a>
+      </div>
+    </footer>
+  </body>
+</html>
