@@ -60,5 +60,3 @@ Na entrega 1 desenvolvemos o Figma da página e nesta entrega desenvolvemos o fl
     <br />
     <sub><b>Arnold</b></sub><br />:rocket:</td>
 </table>
-
-https://youtu.be/H7rDbBI65mA
