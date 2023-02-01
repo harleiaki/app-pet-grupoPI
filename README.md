@@ -60,6 +60,7 @@ Na entrega 1 desenvolvemos o Figma da página e nesta entrega desenvolvemos o fl
     <br />
 </table>
        
-## ▶️ Video de demonstração
-       
+## ▶️ Video de demonstração 
+      
        https://www.youtube.com/watch?v=H7rDbBI65mA
+     
