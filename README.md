@@ -61,11 +61,11 @@ Na entrega 1 desenvolvemos o Figma da página e nesta entrega desenvolvemos o fl
      <sub><b>Harlei Akira</b></sub><br />:rocket:</td>
 
 </table>
-       
-## ▶️ Video de demonstração 
+
+https://user-images.githubusercontent.com/96266332/216155076-b455b0d6-12bf-4ef0-b744-bddd9b711bea.mp4
+  
+  ## ▶️ Video de demonstração 
       
        https://www.youtube.com/watch?v=H7rDbBI65mA
      
 1. Copie o link e cole na barra de pesquisas do browser.
-
-https://user-images.githubusercontent.com/96266332/216155076-b455b0d6-12bf-4ef0-b744-bddd9b711bea.mp4
