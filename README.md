@@ -64,3 +64,4 @@ Na entrega 1 desenvolvemos o Figma da página e nesta entrega desenvolvemos o fl
       
        https://www.youtube.com/watch?v=H7rDbBI65mA
      
+1. Copie o link e cole na barra de pesquisas do browser.
