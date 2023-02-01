@@ -58,7 +58,4 @@ Na entrega 1 desenvolvemos o Figma da página e nesta entrega desenvolvemos o fl
      <td align="center"><a href="https://github.com/arnoldcainan">
     <img src="https://avatars.githubusercontent.com/u/86830636?v=4" width="100px" alt="Imagem do perfil do Arnold"/>
     <br />
-    <sub><b>Arnold</b></sub><br />:rocket:</td>    
-       <img src="https://www.youtube.com/watch?v=H7rDbBI65mA" width="500px" alt="Video explicativo"/>
-    <br />
 </table>
