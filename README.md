@@ -58,6 +58,7 @@ Na entrega 1 desenvolvemos o Figma da página e nesta entrega desenvolvemos o fl
      <td align="center"><a href="https://github.com/arnoldcainan">
     <img src="https://avatars.githubusercontent.com/u/86830636?v=4" width="100px" alt="Imagem do perfil do Arnold"/>
     <br />
+
 </table>
        
 ## ▶️ Video de demonstração 
@@ -65,3 +66,5 @@ Na entrega 1 desenvolvemos o Figma da página e nesta entrega desenvolvemos o fl
        https://www.youtube.com/watch?v=H7rDbBI65mA
      
 1. Copie o link e cole na barra de pesquisas do browser.
+
+https://user-images.githubusercontent.com/96266332/216155076-b455b0d6-12bf-4ef0-b744-bddd9b711bea.mp4
