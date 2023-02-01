@@ -62,7 +62,7 @@ Na entrega 1 desenvolvemos o Figma da página e nesta entrega desenvolvemos o fl
 
 </table>
 
-https://user-images.githubusercontent.com/96266332/216155076-b455b0d6-12bf-4ef0-b744-bddd9b711bea.mp4
+https://user-images.githubusercontent.com/96266332/216161076-8f9d931a-3649-4758-9b30-6ddb2ca168f8.mp4
   
   ## ▶️ Video de demonstração 
       
