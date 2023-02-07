@@ -17,11 +17,11 @@ Na entrega 1 desenvolvemos o Figma da página e nesta entrega desenvolvemos o fl
   ```
   git clone https://github.com/harleiaki/app-pet-grupoPI.git
   ```
-  
-2. Execute a página `home-não-logada.html` no seu browser
-3. Para fazer o login, clique em "Entrar"
-4. Informe o email: `email@email.com` e a senha: `senha`
-5. Agora você está logado, para sair, clique em sair e você voltará para a home-não-logada
+2. Abra a pasta app-pet-grupoPI, screens,   
+3. Execute a página `home-não-logada.html` no seu browser
+4. Para fazer o login, clique em "Entrar"
+5. Informe o email: `email@email.com` e a senha: `senha`
+6. Agora você está logado, para sair, clique em sair e você voltará para a home-não-logada
 
 ## 💻 Desenvolvedoras e desenvolvedores
 
