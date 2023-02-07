@@ -15,7 +15,7 @@ Na entrega 1 desenvolvemos o Figma da página e nesta entrega desenvolvemos o fl
 1. Faça o clone do repositório na sua máquina com o comando abaixo:
 
   ```
-  git clone https://github.com/alexa2me/PI-fluxo-de-login.git
+  git clone https://github.com/harleiaki/app-pet-grupoPI.git
   ```
   
 2. Execute a página `home-não-logada.html` no seu browser
