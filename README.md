@@ -23,7 +23,7 @@ Na entrega 1 desenvolvemos o Figma da página e nesta entrega desenvolvemos o fl
 5. Informe o email: `email@email.com` e a senha: `senha`
 6. Agora você está logado, para sair, clique em sair e você voltará para a home-não-logada
 
-##QR CODE Protótipo ~Figma
+## QR CODE Protótipo ~Figma
 
 ![baixados](https://user-images.githubusercontent.com/96266332/219967818-514498df-8435-42b0-899e-590ebd3a82ae.png)
 
