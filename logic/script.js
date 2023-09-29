@@ -57,5 +57,5 @@ function sair() {
 
 //função onclick que leva pra tela-login
 function entrar() {
-  location.href = "tela-login.html";
+  location.href = "index.html";
 }
