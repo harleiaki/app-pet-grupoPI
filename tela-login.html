@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Pet a Vista</title>
+    <link href="../style/style.css" rel="stylesheet" />
+  </head>
+  <body>
+    <header>
+      <p onclick="sair()">Pet a vista</p>
+    </header>
+    <main>
+      <div class="login-container">
+        <div>
+          <img
+            src="../images/pets/cat-login.png"
+            alt="Foto de um gato com um notebook"
+          />
+        </div>
+        <div class="login-form">
+          <div>
+            <h1>Entrar</h1>
+            <p class="login-text">
+              Entre com seu e-mail e senha para continuar
+            </p>
+          </div>
+          <div class="input-form">
+            <input
+              type="email"
+              placeholder="E-mail"
+              id="email"
+              onchange="onChangeEmail()"
+            />
+            <!-- <div class="erro" id="emailObrigatorio">E-mail é obrigatório</div>
+            <div class="erro" id="emailInvalido">E-mail inválido</div> -->
+            <input
+              type="password"
+              placeholder="Senha"
+              id="password"
+              onblur="onChangeSenha()"
+            />
+            <!-- <div class="erro" id="senhaObrigatoria">Senha é obrigatório</div> -->
+            <a
+              href=""
+              class="recover-password"
+              id="recuperarSenha"
+              >Esqueci minha senha
+            </a>
+          </div>
+          <div class="btn-login">
+            <button id="btnEntrar" onclick="logar()">
+              Entrar
+            </button>
+            <p>Ainda não tem uma conta?</p>
+            <a href="">Cadastre-se agora</a>
+          </div>
+        </div>
+      </div>
+    </main>
+    <footer>
+      <p>Made with ♥ by &nbsp &nbsp &nbsp</p>
+      <div>
+        <a href="https://github.com/alexa2me" target="_blank">
+          <img src="/images/developers/alexandra.png" alt="Alexandra" />
+        </a>
+        <a href="https://github.com/fernandagiacomel" target="_blank">
+          <img src="/images/developers/fernanda.png" alt="Fernanda" />
+        </a>
+        <a href="https://github.com/enricoasc" target="_blank">
+          <img src="/images/developers/enrico.png" alt="Enrico" />
+        </a>
+        <a href="https://github.com/marleicampos" target="_blank">
+          <img src="/images/developers/marlei.png" alt="Marlei" />
+        </a>
+        <a href="https://github.com/harleiaki" target="_blank">
+          <img src="/images/developers/harley.png" alt="Harley" />
+        </a>
+        <a href="https://github.com/gabolex" target="_blank">
+          <img src="/images/developers/gabriel.png" alt="Gabriel" />
+        </a>
+        <a href="https://github.com/mourajorge" target="_blank">
+          <img src="/images/developers/joao.png" alt="Joao" />
+        </a>
+        <a href="https://github.com/arnoldcainan" target="_blank">
+          <img src="/images/developers/arnold.png" alt="Arnold" />
+        </a>
+      </div>
+    </footer>
+    <script src="../logic/script.js"></script>
+  </body>
+</html>
